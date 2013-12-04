@@ -1,0 +1,7 @@
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\Smoke\Smoke\Smoke\obj\x86\Debug\Smoke.csprojResolveAssemblyReference.cache
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\Smoke\Smoke\Smoke\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\Smoke\Smoke\Smoke\bin\x86\Debug\Smoke.exe
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\Smoke\Smoke\Smoke\bin\x86\Debug\Smoke.pdb
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\Smoke\Smoke\Smoke\obj\x86\Debug\Smoke.exe
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\Smoke\Smoke\Smoke\obj\x86\Debug\Smoke.pdb
+C:\Users\Agge\Documents\Visual Studio 2010\Projects\SpelProgrammering\TestOne\Inluppar\Inlupp2\Smoke\Smoke\Smoke\bin\x86\Debug\Content\smoke.xnb
